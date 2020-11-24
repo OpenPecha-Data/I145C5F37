@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC34
   title: གུང་རུ་རྒྱལ་མཚན་བཟང་པོའི་སྟོང་ཐུན་དང་རྣམ་ཐར།
-  volume: ''
+  volume:
+    76ad47a6a2e94db39e87439ca811ec65:
+      image_group_id: I2PD18911
+      title: Volume 1 of gung ru rgyal mtshan bzang po'i stong thun dang rnam thar/
+      volume_number: 1
+      total_pages: 200
   author: ''
+ebook_metadata:
+  title: གུང་རུ་རྒྱལ་མཚན་བཟང་པོའི་སྟོང་ཐུན་དང་རྣམ་ཐར།
+  author: ''
+  sku: P008048
+  cover: cover.jpg
+  layers:
+  - pagination
